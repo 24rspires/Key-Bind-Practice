@@ -47,7 +47,6 @@ if CONFIG is not None:
         command = (command, XboxButtons[CONFIG.buttonBindings.get(command)])
     except KeyError:
         command = (command, XboxMotions[CONFIG.motionBindings.get(command)])
-    print(command)
 
 while running:
     new_command = False
