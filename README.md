@@ -2,7 +2,15 @@
 # Keybind Practice
 
 ## Overview
-This project is designed to help people practice their keybinds on Xbox controllers (other controllers may work but are untested and not guaranteed to work at this time).
+This project is designed to help people practice their keybinds on Xbox controllers.
+
+## Warnings
+
+Only regular Xbox One controllers are currently supported
+
+Other controllers may work with it, but are not guaranteed. The program will hard crash with an unsupported controller
+
+I would love to add more controller support down the line. However, I cannot promise every controller will be supported as they cost money.
 
 ## Requirements Installation
 
