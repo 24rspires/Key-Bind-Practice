@@ -6,7 +6,7 @@ This project is designed to help people practice their keybinds on Xbox controll
 
 ## Warnings
 
-Only regular Xbox One controllers are currently supported
+Only [regular Xbox One controllers](https://www.amazon.com/dp/B08F43JG2B/ref=twister_B0B5HSCKPC?_encoding=UTF8&th=1) are currently supported
 
 Other controllers may work with it, but are not guaranteed. The program will hard crash with an unsupported controller
 
